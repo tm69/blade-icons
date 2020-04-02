@@ -5,7 +5,7 @@
 <a href="https://packagist.org/packages/driesvints/blade-icons"><img src="https://poser.pugx.org/driesvints/blade-icons/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/driesvints/blade-icons"><img src="https://poser.pugx.org/driesvints/blade-icons/license.svg" alt="License"></a>
 
-A package to easily make use of icons in your Laravel Blade views. 
+A package to easily make use of SVG icons in your Laravel Blade views. 
 
 Heroicons and Zondicons originally made by [Steve Schoger](https://twitter.com/steveschoger) and [Adam Wathan](https://twitter.com/adamwathan).
 
