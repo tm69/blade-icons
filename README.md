@@ -21,8 +21,23 @@ Heroicons and Zondicons originally made by [Steve Schoger](https://twitter.com/s
 
 ## Installation
 
+Edit `composer.json`
+
 ```bash
-composer require driesvints/blade-icons
+"repositories": [
+  {
+    "type": "vcs",
+    "url": "https://github.com/tm69/blade-icons"
+  }
+],
+"require": {
+  ...
+  "driesvints/blade-icons": "dev-master"
+}
+```
+
+```bash
+composer update
 ```
 
 ## Updating
