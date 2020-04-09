@@ -16,7 +16,7 @@ Heroicons and Zondicons originally made by [Steve Schoger](https://twitter.com/s
 
 ## Requirements
 
-- PHP 7.4 or higher
+- PHP 7.2.5 or higher
 - Laravel 7.0 or higher
 
 ## Installation
